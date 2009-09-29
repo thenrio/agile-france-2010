@@ -1,0 +1,490 @@
+/** IE5/6 PNG transparency fix */
+img, div {
+  behavior: url('/iepngfix.htc');
+}
+
+html {
+  margin: 0;
+  padding: 0;    
+}
+
+body {
+  font-family: Helvetica, arial, sans-serif;
+  background-color: white;
+  background-image: url('banner.png');
+  background-repeat: repeat-x;
+  margin: 0;
+  padding: 0;  
+}
+
+#page {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+}
+
+#skip-to-nav {
+  display: none;
+}
+
+#logo {
+  display: none;
+}
+
+#logo-image {
+  display: none;
+}
+
+#site-name {
+  font-size: 1.5em;
+  color: navy;
+  margin-bottom: 0.5em;
+}
+
+#site-name a:link,
+  #site-name a:visited {
+  color: #000;
+  text-decoration: none;
+}
+
+#site-name a:hover {
+  text-decoration: underline;
+}
+
+#site-slogan {
+  color: blue;
+  font-size: 1.3em;
+}
+
+/** main (container for everything else) **/
+#main {
+  margin-top: 5px;
+}
+
+/** content **/
+#content {
+  margin-top: 20px;
+  text-align: justify;
+}
+
+.with-navbar #content {
+  width: 700px;
+}
+
+h1.title, /* The title of the page */
+h2.title, /* Block title or the title of a piece of content when it is given in a list of content */
+h3.title /* Comment title */
+{
+  margin: 0;
+}
+
+.help /* Help text on a page */
+{
+  margin: 1em 0;
+}
+
+.more-help-link /* Link to more help */
+{
+  font-size: 0.85em;
+  text-align: right;
+}
+
+.pager /* A list of page numbers when more than 1 page of content is available */
+{
+  clear: both;
+  margin: 1em 0;
+  text-align: center;
+}
+
+.pager a, .pager strong.pager-current {
+  padding: 0.5em;
+}
+
+.feed-icons /* The links to the RSS or Atom feeds for the current list of content */
+{
+  margin: 1em 0;
+}
+
+/** navbar **/
+#navbar {
+  text-align: center;
+  padding-top: 0;
+  margin-top: 15px;
+}
+
+#navbar li {
+  float: none;
+}
+
+#navbar-inner {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#edit-search-theme-form-1-wrapper label /* Label that says "Search this site:" */
+{
+  display: none;
+
+}
+
+#primary {
+  margin-left: 0;
+  height: 30px;
+  vertical-align: top;
+  text-align: center;
+}
+
+#primary ul {
+  margin-left: auto;
+  margin-right: auto;  
+}
+
+#primary li {
+  display: inline;
+  padding-right: 30px;
+  font-size: 0.8em;
+}
+
+#primary a {
+  font-size: 1.2em;
+}
+
+
+/* ============================================= */
+
+#sponsors {
+  text-align: center;
+}
+
+#sponsors-title p {
+  color: #666;
+  font-weight: bold;
+}
+
+/** footer **/
+#footer {
+}
+
+#footer-inner {
+}
+
+#footer-message /* Wrapper for the footer message from Drupal's "Site information"
+                     and for any blocks placed in the footer region */
+{
+}
+
+.node-unpublished div.unpublished, /* The word "Unpublished" displayed beneath the content. */
+.comment-unpublished div.unpublished {
+  height: 0;
+  overflow: visible;
+  color: #d8d8d8;
+  font-size: 75px;
+  line-height: 1;
+  font-family: Impact, "Arial Narrow", Helvetica, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  word-wrap: break-word; /* A very nice CSS3 property */
+}
+
+.marker /* "New" or "Updated" marker for content that is new or updated for the current user */
+{
+  color: #c00;
+}
+
+.node.node-unpublished .picture,
+  .comment.comment-unpublished .picture {
+  position: relative; /* Otherwise floated pictures will appear below the "Unpublished" text. */
+}
+
+.node .meta /* Wrapper for submitted and terms data */
+{
+  display: none;
+}
+
+.node .submitted /* The "posted by" information */
+{
+  display: none;
+}
+
+.node div.links /* Wrapper for node links */
+{
+  margin: 1em 0;
+}
+
+ul.links /* Taxonomy links, node links, comment links */
+{
+  margin: 0;
+  padding: 0;
+}
+
+ul.links.inline {
+  display: inline;
+}
+
+ul.links li {
+  display: inline;
+  list-style-type: none;
+  padding: 0 0.5em;
+}
+
+#comments /* Wrapper for the list of comments and its title */
+{
+  margin: 1em 0;
+}
+
+.new /* "New" marker for comments that are new for the current user */
+{
+  color: #c00;
+}
+
+.comment div.links /* Wrapper for comment links. See also the ul.links declaration in the node section above. */
+{
+  margin: 1em 0;
+}
+
+
+.block /* Block wrapper */
+{
+  margin-bottom: 1em;
+}
+
+.block h2.title /* Block title */
+{
+  display: none;
+}
+
+#block-user-0 /* "User login form" block */
+{
+  display: block;
+}
+
+.more-link {
+  text-align: right;
+}
+
+#user-login-form /* Drupal's default login form */
+{
+  text-align: left;
+  display: block;
+}
+
+tr.even, tr.odd /* Some tables have rows marked even or odd. See also the ".section-admin tr.even" declaration below. */
+{
+  border-bottom: none;
+  padding: 0;
+}
+
+li a.active /* The active item in a Drupal menu */
+{
+  color: #000;
+  font-weight: bold;
+}
+
+li a:link {
+  text-decoration: none
+}
+
+li a:visited {
+  text-decoration: none
+}
+
+li a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+/** Drupal forms **/
+.form-item, /* Wrapper for a form element (or group of form elements) and its label */
+.form-checkboxes,
+  .form-radios {
+  margin: 1em 0;
+}
+
+.form-item input.error, /* Highlight the form elements that caused a form submission error */
+.form-item textarea.error,
+  .form-item select.error {
+  border: 2px solid #c00;
+}
+
+.form-item label /* The label for a form element */
+{
+  display: block;
+  font-weight: bold;
+}
+
+.form-item label.option /* The label for a radio button or checkbox */
+{
+  display: inline;
+  font-weight: normal;
+}
+
+.form-required /* The part of the label that indicates a required field */
+{
+  color: #c00;
+}
+
+.form-item .description /* The descriptive help text (separate from the label) */
+{
+  font-size: 0.85em;
+}
+
+.form-checkboxes .form-item, /* Pack groups of checkboxes and radio buttons closer together
+  .form-radios .form-item
+  {
+    margin: 0.4em 0;
+  }
+
+  .form-submit /* The submit button */
+{
+}
+
+.container-inline div, .container-inline label /* Inline labels and form divs */
+{
+  display: inline;
+}
+
+.tips /* Tips for Drupal's input formats */
+{
+  margin: 0;
+  padding: 0;
+  font-size: 0.9em;
+}
+
+/** OpenID **/
+/* The default styling for the OpenID login link seems to assume Garland's
+* styling of list items.
+*/
+#user-login-form ul /* OpenID creates a new ul above the login form's links. */
+{
+  margin-bottom: 0; /* Position OpenID's ul next to the rest of the links. */
+}
+
+#user-login-form li.openid-link, /* The "Log in using OpenID" links. */
+#user-login li.openid-link {
+  margin-top: 1em;
+  margin-left: -20px; /* Un-do some of the padding on the ul list. */
+  padding-left: 20px;
+  background-position: left center;
+}
+
+#user-login-form li.user-link, /* The "Cancel OpenID login" links. */
+#user-login li.user-link {
+  margin-top: 1em;
+  list-style-type: disc;
+  list-style-position: outside;
+}
+
+#user-login li.openid-link, /* The OpenID links on the /user form. */
+#user-login li.user-link {
+  margin-left: -2em; /* Un-do all of the padding on the ul list. */
+}
+
+/** Drupal admin tables **/
+/* We overrode these styles in html-elements.css, but restore them for the
+* admin section of the site.
+*/
+.section-admin tbody {
+  border-top: 1px solid #ccc;
+}
+
+.section-admin th {
+  text-align: left;
+  padding-right: 1em;
+  border-bottom: 3px solid #ccc;
+}
+
+.section-admin tbody th {
+  border-bottom: 1px solid #ccc;
+}
+
+.section-admin thead th {
+  text-align: left;
+  padding-right: 1em;
+  border-bottom: 3px solid #ccc;
+}
+
+.section-admin tr.even,
+  .section-admin tr.odd {
+  background-color: #eee;
+  border-bottom: 1px solid #ccc;
+  padding: 0.1em 0.6em;
+}
+
+.borderit img {
+  border: 1px solid #ccc;
+}
+
+.borderit:hover img {
+}
+
+.borderit:hover {
+  font-weight: bold; /* irrelevant definition to overcome IE bug */
+}
+
+#login-link {
+  text-align: center;
+}
+
+textarea {
+  width: 300px;
+  height: 100px;
+}
+
+input, text {
+  width: 300px;
+  height: 20px;
+}
+
+#button {
+  text-align: center;
+}
+ 
+
+/* ============================================= */
+/* Main header                                   */
+/* ============================================= */
+
+#main-header {
+}
+
+#main-header table {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#main-header table tr {
+  margin: 0;
+  padding: 0;
+}
+
+#main-header table td {
+  margin: 0;
+  padding: 0;
+}
+
+#main-header table td.left-col {
+  width: 2%;
+}
+
+#main-header table td.right-col {
+  padding-left: 30px;
+  width: 98%;
+}
+
+p#main-header-title {
+  margin: 0;
+  font-size: 18pt;
+  font-weight: normal;
+  color: #4344BF;
+}
+
+p#main-header-subtitle {
+  margin: 0;
+  margin-top: 10px;
+  font-size: 11pt;
+  font-weight: normal;
+  color: #FF4545;
+}
