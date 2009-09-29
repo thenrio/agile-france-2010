@@ -37,271 +37,264 @@
       topmargin="0">
 
 <DIV id="page">
-  <DIV id="page-inner">
+<DIV id="page-inner">
 
-    <A name="top" id="navigation-top"></A>
+<A name="top" id="navigation-top"></A>
 
-    <DIV id="skip-to-nav"><A href="http://xpday.fr/sponsoring#navigation">Skip to Navigation</A></DIV>
-    <DIV id="header">
-      <DIV id="header-inner" class="clear-block">
-
-
-      </DIV>
-    </DIV>
-    <!-- /#header-inner, /#header -->
-
-    <DIV id="main">
-
-      <DIV id="main-header">
-        <TABLE>
-          <TBODY>
-          <TR>
-            <TD class="left-col">
-              <IMG id="main-header-logo" src="xpday_logo.png" width="132" height="60">
-            </TD>
-            <TD class="right-col">
-              <P id="main-header-title">
-                La conférence agile sur les méthodes agiles
-              </P>
-
-              <P id="main-header-subtitle">
-                Paris, les 25 et 26 mai 2009
-              </P>
-            </TD>
-          </TR>
-          </TBODY>
-        </TABLE>
-      </DIV>
-
-
-      <DIV id="main-inner" class="clear-block with-navbar">
-
-        <DIV id="content">
-          <DIV id="content-inner">
-
-
-            <DIV id="content-header">
-              <H1 class="title">Sponsoring</H1>
-            </DIV>
-            <!-- /#content-header -->
-
-            <DIV id="content-area">
-              <DIV id="node-13" class="node node-type-story">
-                <DIV class="node-inner">
-
-
-                  <DIV class="meta">
-                    <DIV class="submitted">
-                      Submitted by sandrineolivencia on Sun, 12/07/2008 - 00:08
-                    </DIV>
-
-                  </DIV>
-
-                  <DIV class="content">
-                    <DIV>
-                      <DIV style="text-align: center"><A
-                              href="http://xpday.fr/sites/all/themes/xpday/2008-11-30%20Sponsors.pdf"><IMG
-                              src="bouton_sponsor_form.png"></A></DIV>
-                      <P>Avec près de 200 participants pour sa troisième édition en 2008 (250 à 300 attendus en 2009),
-                        XP Days France est devenu le rendez-vous de référence pour la communauté Agile.</P>
-
-                      <P>Le succès du format XP Days s'explique par son orientation pragmatique. Lors de ces deux
-                        journées, nous donnons rendez-vous aux acteurs des projets de développement pour venir
-                        confronter des idées et découvrir les bénéfices des pratiques Agiles. </P>
-
-                      <P>Des décideurs en quête de nouvelles idées pour améliorer l’efficacité de leurs projets de
-                        développement logiciels... Des professionnels, chercheurs ou universitaires qui souhaitent en
-                        savoir plus sur les méthodes agiles, leurs bénéfices, leurs limites... Des praticiens qui ont
-                        mis en place des pratiques agiles au sein de leurs projets et souhaitent confronter leurs
-                        retours d'expérience à ceux d'autres praticiens... </P>
-
-                      <P align="middle"><IMG src="xpdayMotto.png"> &nbsp; &nbsp; &nbsp;<IMG src="sponsor_pub.png"></P>
-
-                      <P>C’est l'occasion pour tous de découvrir une ambiance particulière, avec une grande coopération,
-                        une grande franchise ainsi qu’une véritable envie de progresser.</P>
-
-                      <P>En apportant votre soutien à l'événement, vous participerez de façon visible à l'essor des
-                        pratiques Agiles en France, et aurez l'occasion de nouer ou renforcer des contacts avec une
-                        exceptionnelle communauté de talents ! </P>
-
-                      <P>Téléchargez notre <A href="http://xpday.fr/sites/all/themes/xpday/2008-11-30%20Sponsors.pdf">formulaire
-                        d'engagement de sponsoring</A>. Ce document vous présente nos niveaux de sponsoring et leurs
-                        avantages. Pour tous renseignements, veuillez nous contacter. Vous trouverez nos coordonnées sur
-                        le formulaire.</P>
-
-                      <P><BR><BR>
-                        Voici l'état actuel des engagements de nos sponsors, en pourcentage de nos objectifs:</P>
-
-                      <DIV align="center">
-                        <SCRIPT src="gpub"></SCRIPT>
-                        <DIV style="width: 450px !important; padding: 0 !important;">
-                          <IFRAME scrolling="no" marginheight="0" marginwidth="0" src="ifr.htm" height="421" width="450"
-                                  frameborder="no" style="border: 1px solid #BBB !important;"></IFRAME>
-                          <DIV style="width:452px !important; text-align: right !important; background-color: #FFF !important;">
-                            <A href="http://docs.google.com/support/bin/answer.py?answer=99488&topic=15165"
-                               target="_blank"
-                               style="border-style: none !important; text-decoration: none !important; padding: 0 !important;"><IMG
-                                    src="smallLogo.gif" alt=""
-                                    style="border-style: none !important; border-width: 0 !important; background-color: none !important; padding: 0 !important; margin: 0 !important;"></A>
-                          </DIV>
-                        </DIV>
-                      </DIV>
-                    </DIV>
-                  </DIV>
-
-
-                </DIV>
-              </DIV>
-              <!-- /node-inner, /node -->
-            </DIV>
-
-
-          </DIV>
-        </DIV>
-        <!-- /#content-inner, /#content -->
-
-        <DIV id="navbar">
-          <DIV id="navbar-inner" class="region region-navbar">
-
-            <A name="navigation" id="navigation"></A>
-
-
-            <DIV id="primary">
-              <UL class="links">
-                <LI class="menu-153 first"><A href="http://xpday.fr/front_page" title="">Accueil</A></LI>
-                <LI class="menu-120"><A href="http://xpday.fr/inscriptions-closes" title="">Inscriptions et tarifs</A>
-                </LI>
-                <LI class="menu-176"><A href="http://xpday.fr/programme" title="">Programme</A></LI>
-                <LI class="menu-119"><A href="http://xpday.fr/lieu-et-acces" title="">Lieu et accès</A></LI>
-                <LI class="menu-154 active"><A href="sponsoring.htm" title="" class="active-trail active">Sponsoring</A>
-                </LI>
-                <LI class="menu-122"><A href="http://xpday.fr/conferences-precedentes" title="">Conférences
-                  précédentes</A></LI>
-                <LI class="menu-155 last"><A href="http://xpday.fr/temoignages" title="">Témoignages</A></LI>
-              </UL>
-            </DIV>
-            <!-- /#primary -->
-
-
-          </DIV>
-        </DIV>
-        <!-- /#navbar-inner, /#navbar -->
-
-
-        <DIV id="sidebar-right">
-          <DIV id="sidebar-right-inner" class="region region-right">
-            <DIV id="block-block-1" class="block block-block region-odd odd region-count-1 count-1">
-              <DIV class="block-inner">
-
-                <H2 class="title">Nos Sponsors</H2>
-
-                <DIV class="content">
-                  <DIV id="sponsors">
-                    <P id="sponsors-title">Nos Sponsors</P>
-
-                    <P><A href="http://www.xp-france.net/" target="_blank"><IMG src="xpfrance.png"></A></P>
-
-                    <P><A href="http://www.pyxis-tech.com/fr/" target="_blank"><IMG src="pyxis.png"></A></P>
-
-                    <P><A href="http://www.zenika.com/" target="_blank"><IMG src="zenika.png"></A></P>
-
-                    <P><A href="http://www.hortis.ch/" target="_blank"><IMG src="hortis2.png"></A></P>
-
-                    <P><A href="http://www.operae.fr/" target="_blank"><IMG src="operae.png"></A></P>
-
-                    <P><A href="http://www.xebia.fr/" target="_blank"><IMG src="xebia2.png"></A></P>
-
-                    <P><A href="http://www.valtech.fr/" target="_blank"><IMG src="valtech.png"></A></P>
-
-                    <P><A href="http://www.prologism.fr/" target="_blank"><IMG src="prologism2.png"></A></P>
-
-                    <P><A href="http://www.agilealliance.org/" target="_blank"><IMG src="agilealliance.png"></A></P>
-
-                    <P><A href="http://www.bk-consulting.fr/" target="_blank"><IMG src="bkconsulting.png"></A></P>
-
-                    <P><BR></P>
-
-                    <P><A href="http://www.fastconnect.fr/" target="_blank"><IMG height="45" width="180"
-                                                                                 src="fastconnect.png"></A></P>
-
-                    <P><BR></P>
-
-                    <P><A href="http://www.sfeir.com/" target="_blank"><IMG src="sfeir2.png"></A></P>
-
-                    <P><BR></P>
-
-                    <P><A href="http://www.microsoft.com/" target="_blank"><IMG src="microsoft.png"></A></P>
-
-                    <P><BR></P>
-
-                    <P id="sponsors-title">Sponsors Media: </P>
-
-                    <P>
-                      <A href="http://www.solutions-logiciels.com/actualites.php?titre=Conference-XP-Day-France-2009&actu=4847"><IMG
-                              src="logo.jpg" width="180"></A><BR>
-                    </P>
-
-                    <P>
-                    </P>
-
-                    <P>
-                      <A href="http://www.programmez.com/actualites.php?titre_actu=Conference-XP-Day-France-2009&id_actu=4847"><IMG
-                              src="logo(1).jpg" width="180"></A></P>
-
-                    <P><A href="http://skillsmatter.com/"><IMG src="skillsmatter.png" width="180"></A></P>
-
-                    <P><A href="sponsoring.htm">Devenez sponsor</A></P>
-
-                    <P><BR><BR>
-                      *****************</P>
-
-                    <P id="sponsors-title">Avec le soutien de: </P>
-
-                    <P><A href="http://www.orange-business.com/multimedia-customer-contact/index.html"
-                          target="_blank"><IMG src="orange.png"></A></P>
-
-                    <P></P>
-
-                    <P></P></DIV>
-                </DIV>
-
-
-              </DIV>
-            </DIV>
-            <!-- /block-inner, /block -->
-            <DIV id="block-block-2" class="block block-block region-even even region-count-2 count-2">
-              <DIV class="block-inner">
-
-                <H2 class="title">Inscriptions</H2>
-
-                <DIV class="content">
-                  <SCRIPT src="gpub(1)"></SCRIPT>
-                  <DIV style="width: 220px !important; padding: 0 !important;">
-                    <IFRAME scrolling="no" marginheight="0" marginwidth="0" src="ifr(1).htm" height="200" width="220"
-                            frameborder="no" style="border: 1px solid #BBB !important;"></IFRAME>
-                    <DIV style="width:222px !important; text-align: right !important; background-color: #FFF !important;">
-                      <A href="http://docs.google.com/support/bin/answer.py?answer=99488&topic=15165" target="_blank"
-                         style="border-style: none !important; text-decoration: none !important; padding: 0 !important;"><IMG
-                              src="smallLogo.gif" alt=""
-                              style="border-style: none !important; border-width: 0 !important; background-color: none !important; padding: 0 !important; margin: 0 !important;"></A>
-                    </DIV>
-                  </DIV>
-                </DIV>
-
-
-              </DIV>
-            </DIV>
-            <!-- /block-inner, /block -->
-          </DIV>
-        </DIV>
-        <!-- /#sidebar-right-inner, /#sidebar-right -->
-
-      </DIV>
-    </DIV>
-    <!-- /#main-inner, /#main -->
+<DIV id="skip-to-nav"><A href="http://xpday.fr/sponsoring#navigation">Skip to Navigation</A></DIV>
+<DIV id="header">
+  <DIV id="header-inner" class="clear-block">
 
 
   </DIV>
+</DIV>
+<!-- /#header-inner, /#header -->
+
+<DIV id="main">
+
+<DIV id="main-header">
+  <TABLE>
+    <TBODY>
+    <TR>
+      <TD class="left-col">
+        <IMG id="main-header-logo" src="images/xpday_logo.png" width="132" height="60">
+      </TD>
+      <TD class="right-col">
+        <P id="main-header-title">
+          La conférence agile sur les méthodes agiles
+        </P>
+
+        <P id="main-header-subtitle">
+          Paris, les 25 et 26 mai 2009
+        </P>
+      </TD>
+    </TR>
+    </TBODY>
+  </TABLE>
+</DIV>
+
+
+<DIV id="main-inner" class="clear-block with-navbar">
+
+<DIV id="content">
+  <DIV id="content-inner">
+
+
+    <DIV id="content-header">
+      <H1 class="title">Sponsoring</H1>
+    </DIV>
+    <!-- /#content-header -->
+
+    <DIV id="content-area">
+      <DIV id="node-13" class="node node-type-story">
+        <DIV class="node-inner">
+
+
+          <DIV class="meta">
+            <DIV class="submitted">
+              Submitted by sandrineolivencia on Sun, 12/07/2008 - 00:08
+            </DIV>
+
+          </DIV>
+
+          <DIV class="content">
+            <DIV>
+              <DIV style="text-align: center"><A
+                      href="http://xpday.fr/sites/all/themes/xpday/2008-11-30%20Sponsors.pdf"><IMG
+                      src="images/bouton_sponsor_form.png"></A></DIV>
+              <P>Avec près de 200 participants pour sa troisième édition en 2008 (250 à 300 attendus en 2009),
+                XP Days France est devenu le rendez-vous de référence pour la communauté Agile.</P>
+
+              <P>Le succès du format XP Days s'explique par son orientation pragmatique. Lors de ces deux
+                journées, nous donnons rendez-vous aux acteurs des projets de développement pour venir
+                confronter des idées et découvrir les bénéfices des pratiques Agiles. </P>
+
+              <P>Des décideurs en quête de nouvelles idées pour améliorer l’efficacité de leurs projets de
+                développement logiciels... Des professionnels, chercheurs ou universitaires qui souhaitent en
+                savoir plus sur les méthodes agiles, leurs bénéfices, leurs limites... Des praticiens qui ont
+                mis en place des pratiques agiles au sein de leurs projets et souhaitent confronter leurs
+                retours d'expérience à ceux d'autres praticiens... </P>
+
+              <P align="middle"><IMG src="images/xpdayMotto.png"> &nbsp; &nbsp; &nbsp;<IMG src="images/sponsor_pub.png">
+              </P>
+
+              <P>C’est l'occasion pour tous de découvrir une ambiance particulière, avec une grande coopération,
+                une grande franchise ainsi qu’une véritable envie de progresser.</P>
+
+              <P>En apportant votre soutien à l'événement, vous participerez de façon visible à l'essor des
+                pratiques Agiles en France, et aurez l'occasion de nouer ou renforcer des contacts avec une
+                exceptionnelle communauté de talents ! </P>
+
+              <P>Téléchargez notre <A href="http://xpday.fr/sites/all/themes/xpday/2008-11-30%20Sponsors.pdf">formulaire
+                d'engagement de sponsoring</A>. Ce document vous présente nos niveaux de sponsoring et leurs
+                avantages. Pour tous renseignements, veuillez nous contacter. Vous trouverez nos coordonnées sur
+                le formulaire.</P>
+
+              <P><BR><BR>
+                Voici l'état actuel des engagements de nos sponsors, en pourcentage de nos objectifs:</P>
+
+              <DIV align="center">
+                <SCRIPT src="gpub"></SCRIPT>
+                <DIV style="width: 450px !important; padding: 0 !important;">
+                  <IFRAME scrolling="no" marginheight="0" marginwidth="0" src="ifr.htm" height="421" width="450"
+                          frameborder="no" style="border: 1px solid #BBB !important;"></IFRAME>
+                  <DIV style="width:452px !important; text-align: right !important; background-color: #FFF !important;">
+                    <A href="http://docs.google.com/support/bin/answer.py?answer=99488&topic=15165"
+                       target="_blank"
+                       style="border-style: none !important; text-decoration: none !important; padding: 0 !important;"><IMG
+                            src="smallLogo.gif" alt=""
+                            style="border-style: none !important; border-width: 0 !important; background-color: none !important; padding: 0 !important; margin: 0 !important;"></A>
+                  </DIV>
+                </DIV>
+              </DIV>
+            </DIV>
+          </DIV>
+
+
+        </DIV>
+      </DIV>
+      <!-- /node-inner, /node -->
+    </DIV>
+
+
+  </DIV>
+</DIV>
+<!-- /#content-inner, /#content -->
+
+<DIV id="navbar">
+  <DIV id="navbar-inner" class="region region-navbar">
+    <A name="navigation" id="navigation"></A>
+
+    <DIV id="primary">
+      <UL class="links">
+        <LI><A href="welcome" title="">Accueil</A></LI>
+        <LI><A href="under-construction" title="">Inscriptions et tarifs</A></LI>
+        <LI><A href="under-construction" title="">Programme</A></LI>
+        <LI><A href="place" title="">Lieu et accès</A></LI>
+        <LI><A href="sponsors" title="" class="active-trail active">Sponsoring</A></LI>
+        <LI><A href="past-events" title="">Conférences précédentes</A></LI>
+        <LI><A href="under-construction" title="">Témoignages</A></LI>
+      </UL>
+    </DIV>
+  </DIV>
+</DIV>
+<!-- /#navbar-inner, /#navbar -->
+
+
+<DIV id="sidebar-right">
+  <DIV id="sidebar-right-inner" class="region region-right">
+    <DIV id="block-block-1" class="block block-block region-odd odd region-count-1 count-1">
+      <DIV class="block-inner">
+
+        <H2 class="title">Nos Sponsors</H2>
+
+        <DIV class="content">
+          <DIV id="sponsors">
+            <P id="sponsors-title">Nos Sponsors</P>
+
+            <P><A href="http://www.xp-france.net/" target="_blank"><IMG src="images/xpfrance.png"></A></P>
+
+            <P><A href="http://www.pyxis-tech.com/fr/" target="_blank"><IMG src="images/pyxis.png"></A></P>
+
+            <P><A href="http://www.zenika.com/" target="_blank"><IMG src="images/zenika.png"></A></P>
+
+            <P><A href="http://www.hortis.ch/" target="_blank"><IMG src="images/hortis2.png"></A></P>
+
+            <P><A href="http://www.operae.fr/" target="_blank"><IMG src="images/operae.png"></A></P>
+
+            <P><A href="http://www.xebia.fr/" target="_blank"><IMG src="images/xebia2.png"></A></P>
+
+            <P><A href="http://www.valtech.fr/" target="_blank"><IMG src="images/valtech.png"></A></P>
+
+            <P><A href="http://www.prologism.fr/" target="_blank"><IMG src="images/prologism2.png"></A></P>
+
+            <P><A href="http://www.agilealliance.org/" target="_blank"><IMG src="images/agilealliance.png"></A></P>
+
+            <P><A href="http://www.bk-consulting.fr/" target="_blank"><IMG src="images/bkconsulting.png"></A></P>
+
+            <P><BR></P>
+
+            <P><A href="http://www.fastconnect.fr/" target="_blank"><IMG height="45" width="180"
+                                                                         src="images/fastconnect.png"></A></P>
+
+            <P><BR></P>
+
+            <P><A href="http://www.sfeir.com/" target="_blank"><IMG src="images/sfeir2.png"></A></P>
+
+            <P><BR></P>
+
+            <P><A href="http://www.microsoft.com/" target="_blank"><IMG src="images/microsoft.png"></A></P>
+
+            <P><BR></P>
+
+            <P id="sponsors-title">Sponsors Media: </P>
+
+            <P>
+              <A href="http://www.solutions-logiciels.com/actualites.php?titre=Conference-XP-Day-France-2009&actu=4847"><IMG
+                      src="images/solutions-et-logiciels.jpg" width="180"></A><BR>
+            </P>
+
+            <P>
+            </P>
+
+            <P>
+              <A href="http://www.programmez.com/actualites.php?titre_actu=Conference-XP-Day-France-2009&id_actu=4847"><IMG
+                      src="images/programmez.jpg" width="180"></A></P>
+
+            <P><A href="http://skillsmatter.com/"><IMG src="images/skillsmatter.png" width="180"></A></P>
+
+            <P><A href="sponsoring.htm">Devenez sponsor</A></P>
+
+            <P><BR><BR>
+              *****************</P>
+
+            <P id="sponsors-title">Avec le soutien de: </P>
+
+            <P><A href="http://www.orange-business.com/multimedia-customer-contact/index.html"
+                  target="_blank"><IMG src="images/orange.png"></A></P>
+
+            <P></P>
+
+            <P></P></DIV>
+        </DIV>
+
+
+      </DIV>
+    </DIV>
+    <!-- /block-inner, /block -->
+    <DIV id="block-block-2" class="block block-block region-even even region-count-2 count-2">
+      <DIV class="block-inner">
+
+        <H2 class="title">Inscriptions</H2>
+
+        <DIV class="content">
+          <SCRIPT src="gpub(1)"></SCRIPT>
+          <DIV style="width: 220px !important; padding: 0 !important;">
+            <IFRAME scrolling="no" marginheight="0" marginwidth="0" src="ifr(1).htm" height="200" width="220"
+                    frameborder="no" style="border: 1px solid #BBB !important;"></IFRAME>
+            <DIV style="width:222px !important; text-align: right !important; background-color: #FFF !important;">
+              <A href="http://docs.google.com/support/bin/answer.py?answer=99488&topic=15165" target="_blank"
+                 style="border-style: none !important; text-decoration: none !important; padding: 0 !important;"><IMG
+                      src="images/smallLogo.gif" alt=""
+                      style="border-style: none !important; border-width: 0 !important; background-color: none !important; padding: 0 !important; margin: 0 !important;"></A>
+            </DIV>
+          </DIV>
+        </DIV>
+
+
+      </DIV>
+    </DIV>
+    <!-- /block-inner, /block -->
+  </DIV>
+</DIV>
+<!-- /#sidebar-right-inner, /#sidebar-right -->
+
+</DIV>
+</DIV>
+<!-- /#main-inner, /#main -->
+
+
+</DIV>
 </DIV>
 <!-- /#page-inner, /#page -->
 

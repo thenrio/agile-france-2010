@@ -29,312 +29,309 @@
   <SCRIPT type="text/javascript" src="drupal.js"></SCRIPT>
   <SCRIPT type="text/javascript" src="lightbox.js"></SCRIPT>
   <SCRIPT type="text/javascript">
-  <!--//--><![CDATA[//><!--
-  jQuery.extend(Drupal.settings, { "basePath": "/", "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": 0.8, "overlay_color": "000", "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "display_image_size": "", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false } });
-  //--><!]]>
+    <!--//--><![CDATA[//><!--
+    jQuery.extend(Drupal.settings, { "basePath": "/", "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": 0.8, "overlay_color": "000", "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "display_image_size": "", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false } });
+    //--><!]]>
   </SCRIPT>
-          <SCRIPT type="text/javascript"></SCRIPT>
+  <SCRIPT type="text/javascript"></SCRIPT>
 </HEAD>
 <BODY class="not-front not-logged-in page-node node-type-story one-sidebar sidebar-right page-lieu-et-acces section-lieu-et-acces"
       topmargin="0">
 
 <DIV id="page">
-  <DIV id="page-inner">
+<DIV id="page-inner">
 
-    <A name="top" id="navigation-top"></A>
+<A name="top" id="navigation-top"></A>
 
-    <DIV id="skip-to-nav"><A href="lieu-et-acces#navigation">Skip to Navigation</A></DIV>
-    <DIV id="header">
-      <DIV id="header-inner" class="clear-block">
-
-
-      </DIV>
-    </DIV>
-    <!-- /#header-inner, /#header -->
-
-    <DIV id="main">
-
-      <DIV id="main-header">
-        <TABLE>
-          <TBODY>
-          <TR>
-            <TD class="left-col">
-              <IMG id="main-header-logo" src="images/xpday_logo.png" width="132" height="60">
-            </TD>
-            <TD class="right-col">
-              <P id="main-header-title">
-                La conférence agile sur les méthodes agiles
-              </P>
-
-              <P id="main-header-subtitle">
-                Paris, les 25 et 26 mai 2009
-              </P>
-            </TD>
-          </TR>
-          </TBODY>
-        </TABLE>
-      </DIV>
-
-
-      <DIV id="main-inner" class="clear-block with-navbar">
-
-        <DIV id="content">
-          <DIV id="content-inner">
-
-
-            <DIV id="content-header">
-              <H1 class="title">Lieu et accès</H1>
-            </DIV>
-            <!-- /#content-header -->
-
-            <DIV id="content-area">
-              <DIV id="node-9" class="node node-type-story">
-                <DIV class="node-inner">
-
-
-                  <DIV class="meta">
-                    <DIV class="submitted">
-                      Submitted by sandrineolivencia on Tue, 12/02/2008 - 03:07
-                    </DIV>
-
-                  </DIV>
-
-                  <DIV class="content">
-                    <P>Entouré d'un lac, offrant un lieu au calme, le <STRONG>chalet de la porte jaune</STRONG> offre
-                      six espaces modulables pouvant accueillir jusqu’à 300 personnes. Les discussions et les repas
-                      peuvent se prolonger à l’extérieur afin de profiter de l’agréable cadre verdoyant : « la campagne
-                      à Paris ».</P>
-                    <I>Cliquez sur une des vignettes pour commencer le slideshow puis naviguer à l'aide des flèches
-                      droite et gauche.</I>
-                    <TABLE cellpadding="10">
-                      <TBODY>
-                      <TR align="center">
-
-                        <TD><A href="images/chalet.PNG" rel="lightbox[chalet][Le Chalet]"
-                               style="text-decoration:none" class="borderit"><IMG src="chaletThumbnail.PNG"><BR>Le
-                          chalet</A></TD>
-                        <TD><A href="images/dehors.png" rel="lightbox[chalet][Le Jardin]"
-                               style="text-decoration:none" class="borderit"><IMG src="dehorsThumbnail.png"><BR>Le
-                          jardin</A></TD>
-                        <TD><A href="images/lac.PNG" rel="lightbox[chalet][Le Lac]"
-                               style="text-decoration:none" class="borderit"><IMG src="lacThumbnail.PNG"><BR>Le lac</A>
-                        </TD>
-                      </TR>
-                      <TR>
-                      </TR>
-                      <TR align="center">
-                        <TD><A href="images/metsFins.png" rel="lightbox[chalet][Les mets fins]"
-                               style="text-decoration:none" class="borderit"><IMG src="verrinesThumbnail.png"><BR>Les
-                          mets fins</A></TD>
-                        <TD><A href="images/dinnerFermette.PNG"
-                               rel="lightbox[chalet][Le d&icirc;ner dans la Fermette]" style="text-decoration:none"
-                               class="borderit"><IMG src="dinnerFermetteThumbnail.PNG"><BR>Le dîner</A></TD>
-                        <TD><A href="images/confRoom.PNG"
-                               rel="lightbox[chalet][La salle pl&eacute;ni&egrave;re]" style="text-decoration:none"
-                               class="borderit"><IMG src="confRoomThumbnail.PNG"><BR>La salle plénière</A></TD>
-                      </TR>
-                      </TBODY>
-                    </TABLE>
-                    <DIV><STRONG>Comment s'y rendre:</STRONG>
-                      <UL>
-                        <LI>En voiture: Avenue de Nogent, Bois de Vincennes, 75012 Paris, France - Parking gratuit.
-                        </LI>
-                        <LI>Métro Ligne 1, station « Château de Vincennes » puis bus 114 ou 210, arrêt Porte Jaune.
-                        </LI>
-                        <LI>RER A2 direction Boissy-Saint-Léger, station Fontenay-sous-Bois</LI>
-                      </UL>
-                    </DIV>
-                    <P><STRONG>Plan d'accès </STRONG><BR>
-                    <IFRAME align="center" width="380" height="250" frameborder="0" scrolling="no" marginheight="0"
-                            marginwidth="0" src="maps.htm"></IFRAME>
-                    <BR>
-                    <SMALL><A
-                            href="http://maps.google.com/maps?f=q&hl=fr&geocode=&q=de+Ile+de+la+porte+jaune,+75012+Paris,+France&sll=48.841002,2.414581&sspn=0.04587,0.11055&ie=UTF8&ll=48.846813,2.464027&spn=0.022934,0.055275&z=14&source=embed"
-                            style="color:#0000FF;text-align:left">Agrandir le plan</A></SMALL>
-                    </P>
-                    <DIV><STRONG>Liste des hotels à proximité du chalet</STRONG>
-
-                      <P>
-                        Hôtel Ibis Porte de Montreuil<BR>
-                        2 Avenue du Professeur André Lenierre<BR>
-                        75020 Paris<BR>
-                        Tél : 01 43 63 16 16</P>
-
-                      <P>
-                        Hôtel Mercure Nogentel<BR>
-                        Parking Fermé à partir de 23h (7€ par voiture)<BR>
-                        8 rue du Port<BR>
-                        94130 Nogent sur Marne<BR>
-                        Tél : 01 48 72 70 00</P>
-
-                      <P>
-                        Hôtel Campanile<BR>
-                        Parking fermé à partir de 23 h mais non gardé (8 € par voiture)<BR>
-                        Quai du Port<BR>
-                        94130 Nogent sur Marne<BR>
-                        Tél : 01 48 72 51 98</P>
-
-                      <P>Hôtel Saint Louis 3*<BR>
-                        Parking Shell à 5 min de l’hôtel,<BR>
-                        2 Bis rue Robert Giraudineau<BR>
-                        94300 Vincennes<BR>
-                        Tél : 01 43 74 16 78
-                      </P></DIV>
-                  </DIV>
-
-
-                </DIV>
-              </DIV>
-              <!-- /node-inner, /node -->
-            </DIV>
-
-
-          </DIV>
-        </DIV>
-        <!-- /#content-inner, /#content -->
-
-        <DIV id="navbar">
-          <DIV id="navbar-inner" class="region region-navbar">
-
-            <A name="navigation" id="navigation"></A>
-
-
-            <DIV id="primary">
-              <UL class="links">
-                <LI class="menu-153 first"><A href="welcome" title="">Accueil</A></LI>
-                <LI class="menu-120"><A href="inscriptions-closes" title="">Inscriptions et tarifs</A>
-                </LI>
-                <LI class="menu-176"><A href="programme" title="">Programme</A></LI>
-                <LI class="menu-119 active"><A href="place.htm" title="" class="active-trail active">Lieu et accès</A>
-                </LI>
-                <LI class="menu-154"><A href="sponsoring" title="">Sponsoring</A></LI>
-                <LI class="menu-122"><A href="conferences-precedentes" title="">Conférences
-                  précédentes</A></LI>
-                <LI class="menu-155 last"><A href="temoignages" title="">Témoignages</A></LI>
-              </UL>
-            </DIV>
-            <!-- /#primary -->
-
-
-          </DIV>
-        </DIV>
-        <!-- /#navbar-inner, /#navbar -->
-
-
-        <DIV id="sidebar-right">
-          <DIV id="sidebar-right-inner" class="region region-right">
-            <DIV id="block-block-1" class="block block-block region-odd odd region-count-1 count-1">
-              <DIV class="block-inner">
-
-                <H2 class="title">Nos Sponsors</H2>
-
-                <DIV class="content">
-                  <DIV id="sponsors">
-                    <P id="sponsors-title">Nos Sponsors</P>
-
-                    <P><A href="http://www.xp-france.net/" target="_blank"><IMG src="images/xpfrance.png"></A></P>
-
-                    <P><A href="http://www.pyxis-tech.com/fr/" target="_blank"><IMG src="images/pyxis.png"></A></P>
-
-                    <P><A href="http://www.zenika.com/" target="_blank"><IMG src="images/zenika.png"></A></P>
-
-                    <P><A href="http://www.hortis.ch/" target="_blank"><IMG src="images/hortis2.png"></A></P>
-
-                    <P><A href="http://www.operae.fr/" target="_blank"><IMG src="images/operae.png"></A></P>
-
-                    <P><A href="http://www.xebia.fr/" target="_blank"><IMG src="images/xebia2.png"></A></P>
-
-                    <P><A href="http://www.valtech.fr/" target="_blank"><IMG src="images/valtech.png"></A></P>
-
-                    <P><A href="http://www.prologism.fr/" target="_blank"><IMG src="images/prologism2.png"></A></P>
-
-                    <P><A href="http://www.agilealliance.org/" target="_blank"><IMG src="images/agilealliance.png"></A></P>
-
-                    <P><A href="http://www.bk-consulting.fr/" target="_blank"><IMG src="images/bkconsulting.png"></A></P>
-
-                    <P><BR></P>
-
-                    <P><A href="http://www.fastconnect.fr/" target="_blank"><IMG height="45" width="180"
-                                                                                 src="images/fastconnect.png"></A></P>
-
-                    <P><BR></P>
-
-                    <P><A href="http://www.sfeir.com/" target="_blank"><IMG src="images/sfeir2.png"></A></P>
-
-                    <P><BR></P>
-
-                    <P><A href="http://www.microsoft.com/" target="_blank"><IMG src="images/microsoft.png"></A></P>
-
-                    <P><BR></P>
-
-                    <P id="sponsors-title">Sponsors Media: </P>
-
-                    <P>
-                      <A href="http://www.solutions-logiciels.com/actualites.php?titre=Conference-XP-Day-France-2009&actu=4847"><IMG
-                              src="images/solutions-et-logiciels.jpg" width="180"></A><BR>
-                    </P>
-
-                    <P>
-                    </P>
-
-                    <P>
-                      <A href="http://www.programmez.com/actualites.php?titre_actu=Conference-XP-Day-France-2009&id_actu=4847"><IMG
-                              src="images/programmez.jpg" width="180"></A></P>
-
-                    <P><A href="http://skillsmatter.com/"><IMG src="images/skillsmatter.png" width="180"></A></P>
-
-                    <P><A href="sponsors">Devenez sponsor</A></P>
-
-                    <P><BR><BR>
-                      *****************</P>
-
-                    <P id="sponsors-title">Avec le soutien de: </P>
-
-                    <P><A href="http://www.orange-business.com/multimedia-customer-contact/index.html"
-                          target="_blank"><IMG src="images/orange.png"></A></P>
-
-                    <P></P>
-
-                    <P></P></DIV>
-                </DIV>
-
-
-              </DIV>
-            </DIV>
-            <!-- /block-inner, /block -->
-            <DIV id="block-block-2" class="block block-block region-even even region-count-2 count-2">
-              <DIV class="block-inner">
-
-                <H2 class="title">Inscriptions</H2>
-
-                <DIV class="content">
-                  <SCRIPT src="gpub"></SCRIPT>
-                  <DIV style="width: 220px !important; padding: 0 !important;">
-                    <IFRAME scrolling="no" marginheight="0" marginwidth="0" src="ifr.htm" height="200" width="220"
-                            frameborder="no" style="border: 1px solid #BBB !important;"></IFRAME>
-                    <DIV style="width:222px !important; text-align: right !important; background-color: #FFF !important;">
-                      <A href="http://docs.google.com/support/bin/answer.py?answer=99488&topic=15165" target="_blank"
-                         style="border-style: none !important; text-decoration: none !important; padding: 0 !important;"><IMG
-                              src="smallLogo.gif" alt=""
-                              style="border-style: none !important; border-width: 0 !important; background-color: none !important; padding: 0 !important; margin: 0 !important;"></A>
-                    </DIV>
-                  </DIV>
-                </DIV>
-
-
-              </DIV>
-            </DIV>
-            <!-- /block-inner, /block -->
-          </DIV>
-        </DIV>
-        <!-- /#sidebar-right-inner, /#sidebar-right -->
-
-      </DIV>
-    </DIV>
-    <!-- /#main-inner, /#main -->
+<DIV id="skip-to-nav"><A href="lieu-et-acces#navigation">Skip to Navigation</A></DIV>
+<DIV id="header">
+  <DIV id="header-inner" class="clear-block">
 
 
   </DIV>
+</DIV>
+<!-- /#header-inner, /#header -->
+
+<DIV id="main">
+
+<DIV id="main-header">
+  <TABLE>
+    <TBODY>
+    <TR>
+      <TD class="left-col">
+        <IMG id="main-header-logo" src="images/xpday_logo.png" width="132" height="60">
+      </TD>
+      <TD class="right-col">
+        <P id="main-header-title">
+          La conférence agile sur les méthodes agiles
+        </P>
+
+        <P id="main-header-subtitle">
+          Paris, les 25 et 26 mai 2009
+        </P>
+      </TD>
+    </TR>
+    </TBODY>
+  </TABLE>
+</DIV>
+
+
+<DIV id="main-inner" class="clear-block with-navbar">
+
+<DIV id="content">
+  <DIV id="content-inner">
+
+
+    <DIV id="content-header">
+      <H1 class="title">Lieu et accès</H1>
+    </DIV>
+    <!-- /#content-header -->
+
+    <DIV id="content-area">
+      <DIV id="node-9" class="node node-type-story">
+        <DIV class="node-inner">
+
+
+          <DIV class="meta">
+            <DIV class="submitted">
+              Submitted by sandrineolivencia on Tue, 12/02/2008 - 03:07
+            </DIV>
+
+          </DIV>
+
+          <DIV class="content">
+            <P>Entouré d'un lac, offrant un lieu au calme, le <STRONG>chalet de la porte jaune</STRONG> offre
+              six espaces modulables pouvant accueillir jusqu’à 300 personnes. Les discussions et les repas
+              peuvent se prolonger à l’extérieur afin de profiter de l’agréable cadre verdoyant : « la campagne
+              à Paris ».</P>
+            <I>Cliquez sur une des vignettes pour commencer le slideshow puis naviguer à l'aide des flèches
+              droite et gauche.</I>
+            <TABLE cellpadding="10">
+              <TBODY>
+              <TR align="center">
+
+                <TD><A href="images/chalet.PNG" rel="lightbox[chalet][Le Chalet]"
+                       style="text-decoration:none" class="borderit"><IMG src="chaletThumbnail.PNG"><BR>Le
+                  chalet</A></TD>
+                <TD><A href="images/dehors.png" rel="lightbox[chalet][Le Jardin]"
+                       style="text-decoration:none" class="borderit"><IMG src="dehorsThumbnail.png"><BR>Le
+                  jardin</A></TD>
+                <TD><A href="images/lac.PNG" rel="lightbox[chalet][Le Lac]"
+                       style="text-decoration:none" class="borderit"><IMG src="lacThumbnail.PNG"><BR>Le lac</A>
+                </TD>
+              </TR>
+              <TR>
+              </TR>
+              <TR align="center">
+                <TD><A href="images/metsFins.png" rel="lightbox[chalet][Les mets fins]"
+                       style="text-decoration:none" class="borderit"><IMG src="verrinesThumbnail.png"><BR>Les
+                  mets fins</A></TD>
+                <TD><A href="images/dinnerFermette.PNG"
+                       rel="lightbox[chalet][Le d&icirc;ner dans la Fermette]" style="text-decoration:none"
+                       class="borderit"><IMG src="dinnerFermetteThumbnail.PNG"><BR>Le dîner</A></TD>
+                <TD><A href="images/confRoom.PNG"
+                       rel="lightbox[chalet][La salle pl&eacute;ni&egrave;re]" style="text-decoration:none"
+                       class="borderit"><IMG src="confRoomThumbnail.PNG"><BR>La salle plénière</A></TD>
+              </TR>
+              </TBODY>
+            </TABLE>
+            <DIV><STRONG>Comment s'y rendre:</STRONG>
+              <UL>
+                <LI>En voiture: Avenue de Nogent, Bois de Vincennes, 75012 Paris, France - Parking gratuit.
+                </LI>
+                <LI>Métro Ligne 1, station « Château de Vincennes » puis bus 114 ou 210, arrêt Porte Jaune.
+                </LI>
+                <LI>RER A2 direction Boissy-Saint-Léger, station Fontenay-sous-Bois</LI>
+              </UL>
+            </DIV>
+            <P><STRONG>Plan d'accès </STRONG><BR>
+            <IFRAME align="center" width="380" height="250" frameborder="0" scrolling="no" marginheight="0"
+                    marginwidth="0" src="maps.htm"></IFRAME>
+            <BR>
+            <SMALL><A
+                    href="http://maps.google.com/maps?f=q&hl=fr&geocode=&q=de+Ile+de+la+porte+jaune,+75012+Paris,+France&sll=48.841002,2.414581&sspn=0.04587,0.11055&ie=UTF8&ll=48.846813,2.464027&spn=0.022934,0.055275&z=14&source=embed"
+                    style="color:#0000FF;text-align:left">Agrandir le plan</A></SMALL>
+            </P>
+            <DIV><STRONG>Liste des hotels à proximité du chalet</STRONG>
+
+              <P>
+                Hôtel Ibis Porte de Montreuil<BR>
+                2 Avenue du Professeur André Lenierre<BR>
+                75020 Paris<BR>
+                Tél : 01 43 63 16 16</P>
+
+              <P>
+                Hôtel Mercure Nogentel<BR>
+                Parking Fermé à partir de 23h (7€ par voiture)<BR>
+                8 rue du Port<BR>
+                94130 Nogent sur Marne<BR>
+                Tél : 01 48 72 70 00</P>
+
+              <P>
+                Hôtel Campanile<BR>
+                Parking fermé à partir de 23 h mais non gardé (8 € par voiture)<BR>
+                Quai du Port<BR>
+                94130 Nogent sur Marne<BR>
+                Tél : 01 48 72 51 98</P>
+
+              <P>Hôtel Saint Louis 3*<BR>
+                Parking Shell à 5 min de l’hôtel,<BR>
+                2 Bis rue Robert Giraudineau<BR>
+                94300 Vincennes<BR>
+                Tél : 01 43 74 16 78
+              </P></DIV>
+          </DIV>
+
+
+        </DIV>
+      </DIV>
+      <!-- /node-inner, /node -->
+    </DIV>
+
+
+  </DIV>
+</DIV>
+<!-- /#content-inner, /#content -->
+
+<DIV id="navbar">
+  <DIV id="navbar-inner" class="region region-navbar">
+
+    <A name="navigation" id="navigation"></A>
+
+
+    <DIV id="primary">
+      <UL class="links">
+        <LI><A href="welcome" title="">Accueil</A></LI>
+        <LI><A href="under-construction" title="">Inscriptions et tarifs</A></LI>
+        <LI><A href="under-construction" title="">Programme</A></LI>
+        <LI><A href="place" title="">Lieu et accès</A></LI>
+        <LI><A href="sponsors" title="" class="active-trail active">Sponsoring</A></LI>
+        <LI><A href="past-events" title="">Conférences précédentes</A></LI>
+        <LI><A href="under-construction" title="">Témoignages</A></LI>
+      </UL>
+    </DIV>
+    <!-- /#primary -->
+
+
+  </DIV>
+</DIV>
+<!-- /#navbar-inner, /#navbar -->
+
+
+<DIV id="sidebar-right">
+  <DIV id="sidebar-right-inner" class="region region-right">
+    <DIV id="block-block-1" class="block block-block region-odd odd region-count-1 count-1">
+      <DIV class="block-inner">
+
+        <H2 class="title">Nos Sponsors</H2>
+
+        <DIV class="content">
+          <DIV id="sponsors">
+            <P id="sponsors-title">Nos Sponsors</P>
+
+            <P><A href="http://www.xp-france.net/" target="_blank"><IMG src="images/xpfrance.png"></A></P>
+
+            <P><A href="http://www.pyxis-tech.com/fr/" target="_blank"><IMG src="images/pyxis.png"></A></P>
+
+            <P><A href="http://www.zenika.com/" target="_blank"><IMG src="images/zenika.png"></A></P>
+
+            <P><A href="http://www.hortis.ch/" target="_blank"><IMG src="images/hortis2.png"></A></P>
+
+            <P><A href="http://www.operae.fr/" target="_blank"><IMG src="images/operae.png"></A></P>
+
+            <P><A href="http://www.xebia.fr/" target="_blank"><IMG src="images/xebia2.png"></A></P>
+
+            <P><A href="http://www.valtech.fr/" target="_blank"><IMG src="images/valtech.png"></A></P>
+
+            <P><A href="http://www.prologism.fr/" target="_blank"><IMG src="images/prologism2.png"></A></P>
+
+            <P><A href="http://www.agilealliance.org/" target="_blank"><IMG src="images/agilealliance.png"></A></P>
+
+            <P><A href="http://www.bk-consulting.fr/" target="_blank"><IMG src="images/bkconsulting.png"></A></P>
+
+            <P><BR></P>
+
+            <P><A href="http://www.fastconnect.fr/" target="_blank"><IMG height="45" width="180"
+                                                                         src="images/fastconnect.png"></A></P>
+
+            <P><BR></P>
+
+            <P><A href="http://www.sfeir.com/" target="_blank"><IMG src="images/sfeir2.png"></A></P>
+
+            <P><BR></P>
+
+            <P><A href="http://www.microsoft.com/" target="_blank"><IMG src="images/microsoft.png"></A></P>
+
+            <P><BR></P>
+
+            <P id="sponsors-title">Sponsors Media: </P>
+
+            <P>
+              <A href="http://www.solutions-logiciels.com/actualites.php?titre=Conference-XP-Day-France-2009&actu=4847"><IMG
+                      src="images/solutions-et-logiciels.jpg" width="180"></A><BR>
+            </P>
+
+            <P>
+            </P>
+
+            <P>
+              <A href="http://www.programmez.com/actualites.php?titre_actu=Conference-XP-Day-France-2009&id_actu=4847"><IMG
+                      src="images/programmez.jpg" width="180"></A></P>
+
+            <P><A href="http://skillsmatter.com/"><IMG src="images/skillsmatter.png" width="180"></A></P>
+
+            <P><A href="sponsors">Devenez sponsor</A></P>
+
+            <P><BR><BR>
+              *****************</P>
+
+            <P id="sponsors-title">Avec le soutien de: </P>
+
+            <P><A href="http://www.orange-business.com/multimedia-customer-contact/index.html"
+                  target="_blank"><IMG src="images/orange.png"></A></P>
+
+            <P></P>
+
+            <P></P></DIV>
+        </DIV>
+
+
+      </DIV>
+    </DIV>
+    <!-- /block-inner, /block -->
+    <DIV id="block-block-2" class="block block-block region-even even region-count-2 count-2">
+      <DIV class="block-inner">
+
+        <H2 class="title">Inscriptions</H2>
+
+        <DIV class="content">
+          <SCRIPT src="gpub"></SCRIPT>
+          <DIV style="width: 220px !important; padding: 0 !important;">
+            <IFRAME scrolling="no" marginheight="0" marginwidth="0" src="ifr.htm" height="200" width="220"
+                    frameborder="no" style="border: 1px solid #BBB !important;"></IFRAME>
+            <DIV style="width:222px !important; text-align: right !important; background-color: #FFF !important;">
+              <A href="http://docs.google.com/support/bin/answer.py?answer=99488&topic=15165" target="_blank"
+                 style="border-style: none !important; text-decoration: none !important; padding: 0 !important;"><IMG
+                      src="smallLogo.gif" alt=""
+                      style="border-style: none !important; border-width: 0 !important; background-color: none !important; padding: 0 !important; margin: 0 !important;"></A>
+            </DIV>
+          </DIV>
+        </DIV>
+
+
+      </DIV>
+    </DIV>
+    <!-- /block-inner, /block -->
+  </DIV>
+</DIV>
+<!-- /#sidebar-right-inner, /#sidebar-right -->
+
+</DIV>
+</DIV>
+<!-- /#main-inner, /#main -->
+
+
+</DIV>
 </DIV>
 <!-- /#page-inner, /#page -->
 
@@ -380,10 +377,10 @@
       <DIV id="bottomNav"><A id="bottomNavClose" href="lieu-et-acces#"
                              style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); "></A><A
               id="bottomNavZoom" href="lieu-et-acces#"></A><A id="bottomNavZoomOut"
-                                                                              href="lieu-et-acces#"></A><A
+                                                              href="lieu-et-acces#"></A><A
               id="lightshowPause" href="lieu-et-acces#" style="display: none;"></A><A id="lightshowPlay"
-                                                                                                      href="lieu-et-acces#"
-                                                                                                      style="display: none;"></A>
+                                                                                      href="lieu-et-acces#"
+                                                                                      style="display: none;"></A>
       </DIV>
     </DIV>
   </DIV>
