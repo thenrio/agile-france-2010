@@ -111,27 +111,27 @@
               <TR align="center">
 
                 <TD><A href="images/chalet.PNG" rel="lightbox[chalet][Le Chalet]"
-                       style="text-decoration:none" class="borderit"><IMG src="chaletThumbnail.PNG"><BR>Le
+                       style="text-decoration:none" class="borderit"><IMG src="images/chaletThumbnail.PNG"><BR>Le
                   chalet</A></TD>
                 <TD><A href="images/dehors.png" rel="lightbox[chalet][Le Jardin]"
-                       style="text-decoration:none" class="borderit"><IMG src="dehorsThumbnail.png"><BR>Le
+                       style="text-decoration:none" class="borderit"><IMG src="images/dehorsThumbnail.png"><BR>Le
                   jardin</A></TD>
                 <TD><A href="images/lac.PNG" rel="lightbox[chalet][Le Lac]"
-                       style="text-decoration:none" class="borderit"><IMG src="lacThumbnail.PNG"><BR>Le lac</A>
+                       style="text-decoration:none" class="borderit"><IMG src="images/lacThumbnail.PNG"><BR>Le lac</A>
                 </TD>
               </TR>
               <TR>
               </TR>
               <TR align="center">
                 <TD><A href="images/metsFins.png" rel="lightbox[chalet][Les mets fins]"
-                       style="text-decoration:none" class="borderit"><IMG src="verrinesThumbnail.png"><BR>Les
+                       style="text-decoration:none" class="borderit"><IMG src="images/verrinesThumbnail.png"><BR>Les
                   mets fins</A></TD>
                 <TD><A href="images/dinnerFermette.PNG"
                        rel="lightbox[chalet][Le d&icirc;ner dans la Fermette]" style="text-decoration:none"
-                       class="borderit"><IMG src="dinnerFermetteThumbnail.PNG"><BR>Le dîner</A></TD>
+                       class="borderit"><IMG src="images/dinnerFermetteThumbnail.PNG"><BR>Le dîner</A></TD>
                 <TD><A href="images/confRoom.PNG"
                        rel="lightbox[chalet][La salle pl&eacute;ni&egrave;re]" style="text-decoration:none"
-                       class="borderit"><IMG src="confRoomThumbnail.PNG"><BR>La salle plénière</A></TD>
+                       class="borderit"><IMG src="images/confRoomThumbnail.PNG"><BR>La salle plénière</A></TD>
               </TR>
               </TBODY>
             </TABLE>
