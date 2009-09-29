@@ -1,0 +1,23 @@
+= wip site for agile france 2010
+
+extracted some pages from http://xpday.fr/
+content is not relevant at this time for 2010 conference
+
+= run demo
+install ruby, >= 1.9.1p129 recommended
+install gem
+
+>gem install sinatra
+>ruby site.rb
+
+turn of network
+go to http://localhost:4567 from browser
+
+= note
+  images are not included yet so rendering is
+  <scripts> are not rendered by webrick
+
+= insights
+  have some test
+  lessen duplication in html source => compose views
+  use coc so that images are discovered from conventioned location images/sponsors for instance
