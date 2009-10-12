@@ -14,8 +14,7 @@ turn of network
 go to http://localhost:4567 from browser
 
 = note
-  images are not included yet so rendering is
-  <scripts> are not rendered by webrick
+  <scripts> are not rendered by webrick, which is default server, unless more is installed (mongrel for instance, did not tried)
 
 = insights
   have some test
