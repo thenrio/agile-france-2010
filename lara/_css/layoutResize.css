@@ -1,0 +1,159 @@
+﻿.bodyNormal #masthead {
+	font-size:36pt;
+	font-family:Georgia,"Times New Roman", Times, serif;
+	background-color:#9999FF
+}
+
+.bodyNormal #container {
+	font-size: 16pt;
+	position: relative;
+	width: 100%;
+}
+
+.bodyNormal #left_col {
+	width: 200px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.bodyNormal #page_content {
+	margin-left: 210px;
+	margin-right: 210px;
+}
+
+.bodyNormal #right_col {
+	width: 200px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+
+.bodyNormal #footer {
+    border:solid 1px black;
+    font-size: 20pt;    
+}
+
+/* ----------------- */
+
+.bodyLarge #masthead {
+	font-size:36pt;
+	font-family:Georgia,"Times New Roman", Times, serif;
+	background-color:#9999FF
+}
+
+.bodyLarge #container {
+	font-size: 16pt;
+	position: relative;
+	width: 100%;
+}
+
+.bodyLarge #left_col {
+	width: 200px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.bodyLarge #page_content {
+	margin-left: 210px;
+	margin-right: 210px;
+}
+
+.bodyLarge #right_col {
+	width: 200px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+
+.bodyLarge #footer {
+    border:solid 1px black;
+    font-size: 20pt;    
+}
+
+/* ----------------- */
+
+.bodyMed #masthead {
+	font-size:24pt;
+	font-family:Georgia,"Times New Roman", Times, serif;
+	background-color:#9999FF
+}
+
+.bodySmall h2 {
+    font-size:14pt;
+}
+
+.bodyMed #container {
+	font-size: 12pt;
+	position: relative;
+	width: 100%;
+}
+
+.bodyMed #left_col {
+	width: 100px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.bodyMed #page_content {
+	margin-left: 110px;
+	margin-right: 210px;
+}
+
+.bodyMed #right_col {
+	width: 200px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+
+.bodyMed #footer {
+    border:solid 1px black;
+    font-size: 14pt;    
+}
+
+/* ----------------- */
+
+.bodySmall #masthead {
+	font-size:18pt;
+	font-family:"Times New Roman", Times, serif;
+	background-color:#9999FF
+}
+
+.bodySmall #container {
+	font-size: 10pt;
+	position:inherit;
+	width: 100%;
+}
+
+.bodySmall h2 {
+    font-size:12pt;
+}
+
+.bodySmall #left_col {
+	display:block;
+	width:100%;
+}
+.bodySmall #left_col ul {
+	margin-left:0pt;
+}
+.bodySmall #left_col li {
+	display:inline;
+	margin-left:5pt;
+	list-style-type:none;
+}
+
+.bodySmall #page_content {
+	display:block;
+}
+
+.bodySmall #right_col {
+	display:none;
+}
+
+.bodySmall #footer {
+    border:solid 1px black;
+    font-size: 9pt;    
+}
