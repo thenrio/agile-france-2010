@@ -21,3 +21,5 @@ go to http://localhost:4567 from browser
   have some test
   lessen duplication in html source => compose views
   use coc so that images are discovered from conventioned location images/sponsors for instance
+  
+and what else ?
